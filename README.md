@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @djangoCoderClub
-- 👀 We interested in Django
+- 👀 We interested in Django web framework
 - 🌱 We currently learning Django
 - 💞️ We looking to collaborate on Django
-- 📫 How to reach me @insta 
-
-<!---
-djangoCoderClub/djangoCoderClub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me https://www.instagram.com/django_coders/ 
+-  Youtube channel https://www.youtube.com/channel/UC8sjaJJNTbGMBe9n7jneXKA
